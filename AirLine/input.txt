@@ -1,0 +1,11 @@
+jeddah madinah 2344 R 9  4  5
+dammam  jeddah 5666 R 10  5  5
+abha  tabuk 2220    R 15  5  10
+riyadh  jeddah 3330 R 20  10 10
+jeddah  tabuk 4440  R 10  5   5
+madinah  riyadh 2245 R 22  2  20
+jeddah  dammam 5500 R 20  10 10
+qasim  dammam 4400  R 10  5  5
+dammam  qasim 3300  R 25  5  20
+jazan  jeddah 3790  R 10  5  5
+jeddah  jazan 6889  R 15  5  10
